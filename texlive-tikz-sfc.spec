@@ -1,6 +1,6 @@
 Name:		texlive-tikz-sfc
 Version:	49424
-Release:	1
+Release:	2
 Summary:	Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-sfc
