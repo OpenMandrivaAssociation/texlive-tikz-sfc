@@ -3,7 +3,7 @@ Version:	49424
 Release:	2
 Summary:	Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-sfc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-sfc
 License:	lppl1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-sfc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-sfc.doc.r%{version}.tar.xz
